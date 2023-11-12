@@ -1,3 +1,3 @@
-[Header](photos/1613243517_128-p-temno-sinii-fon-anime-212.jpg)
+![Header](photos/1613243517_128-p-temno-sinii-fon-anime-212.jpg =250)
 
 ### hee
