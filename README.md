@@ -1,11 +1,10 @@
-<!-- ![Header](photos/1613243517_128-p-temno-sinii-fon-anime-212.jpg) -->
-### Hi
+<!-- -->
 
-<img src="photos/d54db5f4eec6c760b9b2bc9493a54ecb.jpg" alt="drawing" height="500" width="100%">
+# Hi 😶‍🌫️
 
-# I do like WEB!
-What i know:
-### FRONT END
--- HTML, CSS(SCSS, SASS), JS
-### BACK END
--- PHP
+---
+### :About me): ->
+I do like WEB ¥. I've been learning WEB for 3 years, and of course I'm on it. Step by step try to learn something new, literally I love Front End, cause more time im keen on that.
+
+As a web programmer, I possess a unique blend of technical skills, creative thinking, and a passion for crafting immersive online experiences. I have honed my abilities to seamlessly transform complex concepts into functional and visually captivating websites. With a meticulous eye for detail and a deep understanding of programming languages and frameworks, I have successfully brought countless digital projects to life.
+---
