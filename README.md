@@ -1,5 +1,4 @@
 <!-- -->
-<<<<<<< HEAD
 
 # Hi 😶‍🌫️
 
@@ -18,6 +17,5 @@ As a web programmer, I possess a unique blend of technical skills, creative thin
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
   <img src="photos/OIP.jpg" alt="sql" width="40" height="40"/>&nbsp
 </div>
