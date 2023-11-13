@@ -8,7 +8,7 @@
 As a web programmer, I possess a unique blend of technical skills, creative thinking, and a passion for crafting immersive online experiences. I've honed my abilities to seamlessly transform complex concepts into functional and visually captivating websites. With a meticulous eye for detail and a deep understanding of programming languages and frameworks, I've successfully brought countless digital projects to life._
 ---
 
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
